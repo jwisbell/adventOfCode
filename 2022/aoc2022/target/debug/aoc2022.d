@@ -1,1 +1,0 @@
-/home/isbell/Desktop/rust/adventOfCode/2022/aoc2022/target/debug/aoc2022: /home/isbell/Desktop/rust/adventOfCode/2022/aoc2022/src/day1.rs /home/isbell/Desktop/rust/adventOfCode/2022/aoc2022/src/main.rs
