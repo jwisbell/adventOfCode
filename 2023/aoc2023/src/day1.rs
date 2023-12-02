@@ -1,5 +1,5 @@
 use std::fs;
-use regex::{Regex,RegexSet};
+use regex::{Regex};
 
 pub fn main(){
     let filename = "./inputs/day1_test.txt";
