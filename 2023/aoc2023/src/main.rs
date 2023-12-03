@@ -3,6 +3,7 @@ use std::io;
 //my modules
 mod day1;
 mod day2;
+mod day3;
 
 fn main(){
     //This function simply calls the Function of the Day
@@ -31,6 +32,7 @@ fn main(){
         match day{
             1 => {day1::main(); break;},
             2 => {day2::main(); break;},
+            3 => {day3::main(); break;},
             _=> println!("Please enter a valid day to run (0-24): "),//edge case, keep looping
         }
     }
