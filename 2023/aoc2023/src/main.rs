@@ -7,6 +7,7 @@ mod day3;
 mod day4;
 mod day5;
 mod day6;
+mod day7;
 mod day8;
 mod day12;
 mod day13;
@@ -42,6 +43,7 @@ fn main(){
             4 => {day4::main(); break;},
             5 => {day5::main(); break;},
             6 => {day6::main(); break;},
+            7 => {day7::main(); break;},
             8 => {day8::main(); break;},
             12=> {day12::main(); break;},
             13=> {day13::main(); break;},
